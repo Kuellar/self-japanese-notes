@@ -1,0 +1,8 @@
+site_name: Self Japanese Notes
+
+theme:
+  name: material
+
+nav:
+  - N5:
+      - Japanese Verbs: n5/1-Japanese-Verbs.md
