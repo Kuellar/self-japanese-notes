@@ -421,38 +421,58 @@ At the N5 level, the basic form `手伝いましょうか` is sufficient for off
 
 ### Example 1
 
-```text
 ここに名前を書いてください。
+
+<details>
+<summary>Show translation</summary>
+
 Please write your name here.
-```
+
+</details>
 
 ### Example 2
 
-```text
 ちょっと待ってください。
+
+<details>
+<summary>Show translation</summary>
+
 Please wait a moment.
-```
+
+</details>
 
 ### Example 3
 
-```text
 この本を読んでください。
+
+<details>
+<summary>Show translation</summary>
+
 Please read this book.
-```
+
+</details>
 
 ### Example 4
 
-```text
 窓を開けてください。
+
+<details>
+<summary>Show translation</summary>
+
 Please open the window.
-```
+
+</details>
 
 ### Example 5
 
-```text
 日本語を話してください。
+
+<details>
+<summary>Show translation</summary>
+
 Please speak Japanese.
-```
+
+</details>
 
 ---
 
@@ -462,38 +482,58 @@ The て-form can connect two or more actions that happen in sequence.
 
 ### Example 1
 
-```text
 朝ご飯を食べて、学校へ行きます。
+
+<details>
+<summary>Show translation</summary>
+
 I eat breakfast and go to school.
-```
+
+</details>
 
 ### Example 2
 
-```text
 本を読んで、寝ます。
+
+<details>
+<summary>Show translation</summary>
+
 I read a book and go to sleep.
-```
+
+</details>
 
 ### Example 3
 
-```text
 家に帰って、テレビを見ます。
+
+<details>
+<summary>Show translation</summary>
+
 I go home and watch TV.
-```
+
+</details>
 
 ### Example 4
 
-```text
 起きて、顔を洗います。
+
+<details>
+<summary>Show translation</summary>
+
 I wake up and wash my face.
-```
+
+</details>
 
 ### Example 5
 
-```text
 コーヒーを飲んで、仕事をします。
+
+<details>
+<summary>Show translation</summary>
+
 I drink coffee and work.
-```
+
+</details>
 
 ---
 
@@ -501,9 +541,7 @@ I drink coffee and work.
 
 Use:
 
-```text
-て-Form + もいいです
-```
+`て-Form + もいいです`
 
 This means:
 
@@ -513,38 +551,58 @@ This means:
 
 ### Example 1
 
-```text
 ここで写真を撮ってもいいです。
+
+<details>
+<summary>Show translation</summary>
+
 You may take pictures here.
-```
+
+</details>
 
 ### Example 2
 
-```text
 このペンを使ってもいいです。
+
+<details>
+<summary>Show translation</summary>
+
 You may use this pen.
-```
+
+</details>
 
 ### Example 3
 
-```text
 ここに座ってもいいです。
+
+<details>
+<summary>Show translation</summary>
+
 You may sit here.
-```
+
+</details>
 
 ### Example 4
 
-```text
 この本を読んでもいいです。
+
+<details>
+<summary>Show translation</summary>
+
 You may read this book.
-```
+
+</details>
 
 ### Example 5
 
-```text
 今、帰ってもいいです。
+
+<details>
+<summary>Show translation</summary>
+
 You may go home now.
-```
+
+</details>
 
 ---
 
@@ -552,9 +610,7 @@ You may go home now.
 
 Use:
 
-```text
-て-Form + はいけません
-```
+`て-Form + はいけません`
 
 This means:
 
@@ -564,38 +620,58 @@ This means:
 
 ### Example 1
 
-```text
 ここで食べてはいけません。
+
+<details>
+<summary>Show translation</summary>
+
 You must not eat here.
-```
+
+</details>
 
 ### Example 2
 
-```text
 この部屋に入ってはいけません。
+
+<details>
+<summary>Show translation</summary>
+
 You must not enter this room.
-```
+
+</details>
 
 ### Example 3
 
-```text
 ここで写真を撮ってはいけません。
+
+<details>
+<summary>Show translation</summary>
+
 You must not take pictures here.
-```
+
+</details>
 
 ### Example 4
 
-```text
 このペンを使ってはいけません。
+
+<details>
+<summary>Show translation</summary>
+
 You must not use this pen.
-```
+
+</details>
 
 ### Example 5
 
-```text
 ここで話してはいけません。
+
+<details>
+<summary>Show translation</summary>
+
 You must not talk here.
-```
+
+</details>
 
 ---
 
@@ -603,9 +679,7 @@ You must not talk here.
 
 Use:
 
-```text
-Reason + から、Result.
-```
+`Reason + から、Result.`
 
 This means:
 
@@ -613,38 +687,58 @@ This means:
 
 ### Example 1
 
-```text
 疲れたから、休みます。
+
+<details>
+<summary>Show translation</summary>
+
 Because I am tired, I will rest.
-```
+
+</details>
 
 ### Example 2
 
-```text
 お腹がすいたから、食べます。
+
+<details>
+<summary>Show translation</summary>
+
 Because I am hungry, I will eat.
-```
+
+</details>
 
 ### Example 3
 
-```text
 雨だから、家にいます。
+
+<details>
+<summary>Show translation</summary>
+
 Because it is raining, I will stay home.
-```
+
+</details>
 
 ### Example 4
 
-```text
 明日、仕事がありますから、寝ます。
+
+<details>
+<summary>Show translation</summary>
+
 Because I have work tomorrow, I will sleep.
-```
+
+</details>
 
 ### Example 5
 
-```text
 日本語を勉強したいから、本を読みます。
+
+<details>
+<summary>Show translation</summary>
+
 Because I want to study Japanese, I read a book.
-```
+
+</details>
 
 > `から` itself is not a て-form construction. It is included here because it is another basic N5 way to connect a reason with a result.
 
@@ -654,9 +748,7 @@ Because I want to study Japanese, I read a book.
 
 Use:
 
-```text
-Verb stem + ましょうか
-```
+`Verb stem + ましょうか`
 
 This means:
 
@@ -666,48 +758,68 @@ This means:
 
 ### Example 1
 
-```text
 荷物を持ちましょうか。
+
+<details>
+<summary>Show translation</summary>
+
 Shall I carry your luggage?
-```
+
+</details>
 
 ### Example 2
 
-```text
 手伝いましょうか。
+
+<details>
+<summary>Show translation</summary>
+
 Shall I help?
-```
+
+</details>
 
 ### Example 3
 
-```text
 窓を開けましょうか。
+
+<details>
+<summary>Show translation</summary>
+
 Shall I open the window?
-```
+
+</details>
 
 ### Example 4
 
-```text
 写真を撮りましょうか。
+
+<details>
+<summary>Show translation</summary>
+
 Shall I take a picture?
-```
+
+</details>
 
 ### Example 5
 
-```text
 駅まで行きましょうか。
+
+<details>
+<summary>Show translation</summary>
+
 Shall I go with you to the station?
-```
+
+</details>
 
 ---
 
 # Quick Reference
 
-| Purpose         | Pattern     | Example    |
-| --------------- | ----------- | ---------- |
-| Polite request  | て + ください    | 見てください     |
-| Connect actions | て + action  | 食べて、寝ます    |
-| Permission      | てもいいです      | 入ってもいいです   |
-| Prohibition     | てはいけません     | 入ってはいけません  |
-| Give a reason   | Reason + から | 疲れたから、休みます |
-| Offer help      | ましょうか       | 手伝いましょうか   |
+| Purpose         | Pattern           | Example          |
+|-----------------|-------------------|------------------|
+| Polite request  | て + ください     | 見てください     |
+| Connect actions | て + action        | 食べて、寝ます   |
+| Permission      | てもいいです      | 入ってもいいです |
+| Prohibition     | てはいけません    | 入ってはいけません |
+| Give a reason   | Reason + から     | 疲れたから、休みます |
+| Offer help      | ましょうか        | 手伝いましょうか |
