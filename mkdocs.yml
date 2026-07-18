@@ -5,4 +5,6 @@ theme:
 
 nav:
   - N5:
-      - Japanese Verbs: n5/1-Japanese-Verbs.md
+      - Verbs: n5/1-verbs.md
+      - Adjetives: n5/1-adjetives.md
+      - te-form: n5/1-te-form.md
